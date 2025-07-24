@@ -1,7 +1,7 @@
 arquivo = open('arqText.txt', 'w')
 
-arquivo.write('Curso Python\n')
-arquivo.write('Aula Prática\n')
+arquivo.write('Como foi a aula?\n')
+arquivo.write('Aula Prática foi OTIMA\n')
 arquivo.close()
 
 #Leitura do arquivo de texto
